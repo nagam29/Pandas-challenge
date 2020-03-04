@@ -1,6 +1,6 @@
 # Pandas-challenge
 
-Please go to  the folderm PyCitySchools. There are 7 items in the folder
+Please go to  the folder: PyCitySchools. There are 7 items in the folder
 
 My program is PyCitySchools.ipynb
 A written description about my observations is "Trends and Patterns in the School District.docx"
