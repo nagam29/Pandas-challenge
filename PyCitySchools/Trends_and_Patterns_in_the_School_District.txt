@@ -2,30 +2,79 @@ Description of observable trends based on the data
 
 Goal of the investigation:
 
-Investigate district-wide standardized test results and present obvious trends in school performance that might help the school board and mayor make strategic decisions regarding future school budgets and priorities.
+Investigate district-wide standardized test results and present obvious trends 
+in school performance that might help the school board and mayor make 
+strategic decisions regarding future school budgets and priorities.
 
 
 Summary 
 
-Overall, the schools with higher than the overall test passing rate (80%) tend to be small to medium size (less than 2000 students), per-student budget lower than $615 and charter schools. Those that present lower than the overall test passing rate tend to be the schools in the district, large size (over 2000 students), and per student budget higher than $645. A finding that the schools with the lower budget per student (less than $615) performed better than those with the higher budget (over $645) indicates that the amount of budget does not always guarantee good school performance. Finally, school performance, regardless high or low performance, tends to be consistent across different grades (9th to 12th grades), which could indicate that it persists from one year to the other.
+Overall, the schools with higher than the overall test passing rate (80%) tend 
+to be small to medium size (less than 2000 students), per-student budget lower 
+than $615 and charter schools. Those that present lower than the overall test 
+passing rate tend to be the schools in the district, large size (over 2000 
+students), and per student budget higher than $645. A finding that the schools 
+with the lower budget per student (less than $615) performed better than those 
+with the higher budget (over $645) indicates that the amount of budget does 
+not always guarantee good school performance. Finally, school performance, 
+regardless high or low performance, tends to be consistent across different 
+grades (9th to 12th grades), which could indicate that it persists from one 
+year to the other.
 
 Details
 
 Total number of students were 39,170 across 15 schools. 
-Their average math score was 79 and about 75% of the students passed the standardized test. Their average reading score was 82 and about 86% of the students passed the test. 
+Their average math score was 79 and about 75% of the students passed the 
+standardized test. Their average reading score was 82 and about 86% of the 
+students passed the test. 
 Overall average test passing rate was about 80%.
 
 Observation on top 5 schools:
-All the top 5 schools were charter schools. On average, the number of students per school was 1,641 and per student budget was $606. These schools presented higher than 95% of overall test passing rates. This was 15% higher than the overall passing rate (80%). In addition, their math and reading tests passing rates were much higher than the overall averages for these tests. Particularly, their math test passing rate was about 18% higher than the average math test passing rate (75%). 
+
+All the top 5 schools were charter schools. On average, the number of students 
+per school was 1,641 and per student budget was $606. These schools presented 
+higher than 95% of overall test passing rates. This was 15% higher than the 
+overall passing rate (80%). In addition, their math and reading tests passing 
+rates were much higher than the overall averages for these tests. 
+Particularly, their math test passing rate was about 18% higher than the 
+average math test passing rate (75%). 
 
 Observation on bottom 5 schools:
-On the other hand, all the bottom 5 schools were those in the district. On average, the number of students per school was 3,473 and per student budget was $645. They presented about 73% of overall passing rate, that was 7% lower than the overall passing rate. Their reading test passing rates were only slightly lower than the overall average reading test passing rate, but their math test passing rates (about 66%) were in general 9% lower than the average reading test passing rate. 
+
+On the other hand, all the bottom 5 schools were those in the district. On 
+average, the number of students per school was 3,473 and per student budget 
+was $645. They presented about 73% of overall passing rate, that was 7% lower 
+than the overall passing rate. Their reading test passing rates were only 
+slightly lower than the overall average reading test passing rate, but their 
+math test passing rates (about 66%) were in general 9% lower than the average 
+reading test passing rate. 
 
 School performance persists across different years
-Students’ performances at the schools, both charter and district, seemed to be consistent over time. We did not have data that tracks students’ academic performance over time. However, our analysis on the test scores for 9th – 12th grades for each school revealed that both reading and math test scores did not change greatly across different grades within each school. For example, one of the top performing schools, Cabrera High School, showed around 83 points with the math test consistently for the 9th, 10th, 11th and 12th grades. Likewise, the students in this school showed about 83 points with the reading test across the different grades. The consistency in the test scores in different grades seemed to indicate that the school performance did not change greatly from one year to the other. 
+
+Students’ performances at the schools, both charter and district, seemed to be 
+consistent over time. We did not have data that tracks students’ academic 
+performance over time. However, our analysis on the test scores for 9th – 12th 
+grades for each school revealed that both reading and math test scores did not 
+change greatly across different grades within each school. For example, one of 
+the top performing schools, Cabrera High School, showed around 83 points with 
+the math test consistently for the 9th, 10th, 11th and 12th grades. Likewise, 
+the students in this school showed about 83 points with the reading test 
+across the different grades. The consistency in the test scores in different 
+grades seemed to indicate that the school performance did not change greatly 
+from one year to the other. 
 
 A large budget may not guarantee good school performance
-A large budget did not seem to guarantee high school performance. The analysis on spending ranges per student revealed that schools with the lower per student budget actually presented higher overall test passing rates than those with larger per student budget. For example, overall passing rate was 96% with the schools with the lowest per student budget (<$585). Overall passing rate was the lowest (73%) for the schools with highest per student budget ($645-675). These results might indicate a possibility that the large amounts of budge might not always be associated with good school performance. Further investigation would be necessary for discovering answers to a question: why schools with high budget per students were not performing well.
+
+A large budget did not seem to guarantee high school performance. The analysis 
+on spending ranges per student revealed that schools with the lower per 
+student budget actually presented higher overall test passing rates than those 
+with larger per student budget. For example, overall passing rate was 96% with 
+the schools with the lowest per student budget (<$585). Overall passing rate 
+was the lowest (73%) for the schools with highest per student budget 
+($645-675). These results might indicate a possibility that the large amounts 
+of budge might not always be associated with good school performance. Further 
+investigation would be necessary for discovering answers to a question: why 
+schools with high budget per students were not performing well.
 
 
 
