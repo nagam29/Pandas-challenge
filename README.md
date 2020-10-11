@@ -18,7 +18,7 @@ We often hear that public schools are in general more expensive and their studen
 **Tableau Dashboard: Summary 2: School Type and Academic Performance**
 Box charts in the Summary 2 present that math scores and reading scores for the different school types. They present the scores varied more widely for the district schools compared to those for the charter schools. Because of the large variability, the average academic scores of the district school students appeared to be lower. In other words, the low average math/reading scores at the district school can be a mathematical artifact.
 
-**Tableau Dashboard: Summary 3: School Type, Academic Performance **
+**Tableau Dashboard: Summary 3: School Type, Academic Performance**
 The chart presents more detailed information about schools, school types, the numbers of students, and the math score of each student in the schools. The majority of the district school students have the scores above 70, which is the same/similar level of achievement of the students with the charter schools. This indicates that 1) we cannot simply conclude that the academic achievement of the district schools is lower than the charter schools, and 2) the lower mean scores might be a mathematical artifact of the scores with the large variability. 
 
 ### Next Step
