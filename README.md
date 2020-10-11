@@ -29,7 +29,8 @@ The academic performance of district schools might appear to be lower than the c
 
 ### Note
 Please go to  the folder: PyCitySchools.  You can find items below.
-Program --  PyCitySchools.ipynb. 
-Data -- CSV files are schools_complete.csv and students_complete.csv
-Tableau Dashboard:  School_Budget_Students
+
+* Program --  PyCitySchools.ipynb. 
+* Data -- CSV files are schools_complete.csv and students_complete.csv
+* Tableau Dashboard:  School_Budget_Students
 
